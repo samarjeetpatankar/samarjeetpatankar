@@ -35,6 +35,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
+### Languages and Tools
+
+| Languages                                                     | Tools                                                      |
+| ------------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)    | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)   |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)     | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 <!--
 **samarjeetpatankar/samarjeetpatankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
