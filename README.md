@@ -43,6 +43,14 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react" width="40" height="40"/> </a> </p>
 
 
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-samarjeetpatankar
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **samarjeetpatankar/samarjeetpatankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
