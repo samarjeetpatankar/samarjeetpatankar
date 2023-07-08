@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/samarjeetpatankar" target="_blank" rel="noopener noreferrer">Samarjeet Patankar</a>.
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/samarjeetpatankar" target="_blank" rel="noopener noreferrer">Samarjeet Patankar</a>
 </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
