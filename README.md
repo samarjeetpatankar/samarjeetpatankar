@@ -68,7 +68,7 @@
     <hr />
 
     
-    <h2><a href="https://samarjeetpatankar.github.io/">🌍 | Portfolio </a></h2>
+   # [Portfolio](https://samarjeetpatankar.github.io/)
 
 
 <!--
