@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Samarjeet Patankar</h1>
 <h2 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/samarjeetpatankar" target="_blank" rel="noopener noreferrer">Samarjeet Patankar</a> 
 </h2>
