@@ -34,14 +34,18 @@
 ## ✅ Github Stats :
 
 
-![](https://github-readme-stats.vercel.app/api?username=samarjeetpatankar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samarjeetpatankar&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarjeetpatankar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=samarjeetpatankar&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarjeetpatankar&theme=default&hide_border=false" alt="GitHub Streak">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarjeetpatankar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    </div>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samarjeetpatankar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div
 
