@@ -33,15 +33,7 @@
 
 ## ✅ Github Stats :
 
-<div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=samarjeetpatankar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samarjeet Patankar's github stats" />
-
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjeetpatankar&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Samarjeet Patankar's GitHub Streak" />
-
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarjeetpatankar&langs_count=8" alt="Samarjeet Patankar's top languages" />
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samarjeetpatankar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samarjeetpatankar&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarjeetpatankar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
