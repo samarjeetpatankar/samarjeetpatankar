@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
 </p> 
-
-<h3 align="center">Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
-
 <!-- new file -->
 
 
